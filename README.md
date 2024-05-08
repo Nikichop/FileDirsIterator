@@ -8,6 +8,7 @@
 
 1. Создайте файл `config.env`.
 2. Пропишите в файле переменную `FILEPATH`, в которой будет храниться путь до любой директории. (Пример пути: FILEPATH=\путь\до\вашей\директории)
+3. Запустите программу с помощью команды `python SystemIterator.py`
 
 ---
 
@@ -21,3 +22,4 @@ To run the application, follow these steps:
 
 1. Create a `config.env` file.
 2. Write the `FILEPATH` variable in the file, which will store the path to any directory. (Example path: FILEPATH=\path\to\your\directory)
+3. Run the program using the `python SystemIterator.py` command
